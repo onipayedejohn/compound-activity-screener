@@ -66,4 +66,4 @@ The app rebuilds the notebook's final model from the same seed when it starts, i
 The Part A data is simulated, so its metrics show that the workflow is sound, not that the model works on real chemistry. For that reason the classifier is not applied to the real molecules in Part B. Training on real molecules needs measured activity data, such as IC50 values from ChEMBL, and that is the next step.
 
 ---
-Onipayede John Kwaku · [GitHub](https://github.com/onipayedejohn)
+Live url:  https://compound-activity-screener.streamlit.app/
